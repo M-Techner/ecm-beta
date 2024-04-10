@@ -6,7 +6,7 @@
     "ecm-beta": {
       "projectType": "application",
       "schematics": {},
-      "root": "",
+      "root": "/index.html",
       "sourceRoot": "src",
       "prefix": "app",
       "architect": {
